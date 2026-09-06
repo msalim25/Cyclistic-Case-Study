@@ -41,7 +41,6 @@ The dataset includes:
 - SQL (BigQuery)  
 - Tableau  
 - Excel  
-- Python (Pandas, NumPy)  
 - GitHub  
 
 ---
@@ -96,7 +95,7 @@ Screenshots are included in the `/visuals` folder.
 ## 🚀 Recommendations
 
 - Personalized ride summaries for casual riders  
-- Gamified reward system  
+- Point based reward system  
 - Referral incentives  
 - Local business partnerships  
 - Seasonal social media campaigns  
