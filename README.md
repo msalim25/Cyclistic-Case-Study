@@ -80,7 +80,7 @@ Performed in BigQuery:
 
 ## 📊 Visualizations
 
-Screenshots are included in the `/visuals` folder.
+Screenshots are included in the `/03_visuals` folder.
 
 **Tableau Dashboard:**  
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-005F9E?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/mehanaz.salim/viz/cyclistic_analysis_17881966216910/CyclisticPerformancedashboard)
