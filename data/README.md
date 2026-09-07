@@ -5,7 +5,6 @@ This folder contains sample data, reference files, and documentation related to 
 ## Contents
 - **sample_2022_divvy_tripdata.csv** — A small representative sample of the Divvy trip dataset.
 - **schema.md** — A description of the dataset fields and data types.
-- **notes.md** — Any additional data-related notes or transformations.
 
 ## Source Dataset
 The full dataset is publicly available here:
