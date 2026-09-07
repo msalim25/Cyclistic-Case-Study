@@ -4,7 +4,7 @@ This folder contains links and notes related to the Medium case study for the Cy
 
 ## Case Study Link
 
-[![Medium Case Study](https://img.shields.io/badge/Medium-Case_Study-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mehnazaneesh/cyclistic-data-analysis-google-data-analytics-capstone[...]
+[![Medium Case Study](https://img.shields.io/badge/Medium-Case_Study-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mehnazaneesh/cyclistic-data-analysis-google-data-analytics-capstone)
 
 ## Notes
 - This article explains the full analytical process.
