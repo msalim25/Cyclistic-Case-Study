@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*BpR_Fb-bikYpMSrh5i2F9w.png">
+</p>
+
 # Cyclistic Bike Share Analysis — Google Data Analytics Capstone
 
 This project analyzes how **annual members** and **casual riders** use Cyclistic’s bike‑share service differently. It follows the Google Data Analytics framework: **Ask → Prepare → Process → Analyze → Share → Act** and demonstrates end‑to‑end data analytics skills using SQL, BigQuery, Tableau, and structured documentation.
